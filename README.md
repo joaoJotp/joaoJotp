@@ -26,12 +26,6 @@ Busco uma oportunidade como estagiário ou desenvolvedor júnior, onde eu possa 
 📫 Contato:
 📱 Telefone: (11) 959627619
 
- <div>
- <hr>
- <a href="https://github.com/Dossantos003">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dossantos003&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>  
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dossantos003&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-   <hr>
 
 
 <div style="dispaly:flex inline_block"><br>
